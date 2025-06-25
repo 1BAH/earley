@@ -1,0 +1,12 @@
+package earley
+version = 0.1.0
+authors = "NBAH"
+
+main = Main
+
+modules = Derive
+
+executable = "earley"
+
+sourcedir = "src"
+
